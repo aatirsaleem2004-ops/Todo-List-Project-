@@ -1,6 +1,6 @@
 # 📝 Todo List Application
 
-A responsive and interactive **Todo List Application** built using **HTML5, CSS3, and Vanilla JavaScript**. This project allows users to efficiently manage daily tasks with full CRUD functionality and persistent storage using the browser’s Local Storage.
+A responsive and interactive **Todo List Application** built using **HTML5, CSS3, and Vanilla JavaScript**. This project allows users to efficiently manage daily tasks with full CRUD functionality and persistent storage using Local Storage.
 
 ---
 
@@ -9,7 +9,7 @@ A responsive and interactive **Todo List Application** built using **HTML5, CSS3
 * ✅ Add new tasks
 * ✏️ Edit existing tasks
 * 🗑️ Delete tasks
-* 💾 Save tasks using Local Storage
+* 💾 Persistent storage using Local Storage
 * 📱 Fully responsive design
 * 🎨 Clean and modern UI
 * ⚡ Real-time task updates
@@ -27,7 +27,7 @@ A responsive and interactive **Todo List Application** built using **HTML5, CSS3
 
 ## 📂 Project Structure
 
-```text id="p1"
+```text id="t1"
 todo-list-javascript/
 │
 ├── index.html
@@ -57,7 +57,7 @@ todo-list-javascript/
 
 1. Clone the repository:
 
-```bash id="p2"
+```bash id="t2"
 git clone https://github.com/aatirsaleem2004-ops/todo-list-javascript.git
 ```
 
@@ -65,7 +65,7 @@ git clone https://github.com/aatirsaleem2004-ops/todo-list-javascript.git
 
 3. Open `index.html` in your browser.
 
-No additional setup required.
+No additional installation is required.
 
 ---
 
@@ -76,7 +76,7 @@ No additional setup required.
 * CRUD Operations
 * Local Storage usage
 * Dynamic UI updates
-* Basic frontend architecture
+* Basic frontend project structuring
 
 ---
 
@@ -86,8 +86,8 @@ No additional setup required.
 * 📅 Due Date System
 * 🏷️ Task Categories
 * 🔍 Search Functionality
-* 📌 Task Priority Levels
-* ✅ Mark Tasks as Completed
+* 📌 Priority Levels
+* ✅ Task Completion Status
 
 ---
 
@@ -99,6 +99,12 @@ Aspiring AI Automation Engineer
 
 GitHub: https://github.com/aatirsaleem2004-ops
 LinkedIn: https://www.linkedin.com/in/aatir-saleem-136ba9362
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ---
 
